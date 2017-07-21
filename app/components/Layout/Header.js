@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from './Layout.scss'
+import styles from '../../styles/Layout.scss'
 
 export default () => (
   <header className={styles.header}>

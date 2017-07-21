@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from './Products.scss'
+import styles from '../../styles/Products.scss'
 import Item from './Item'
 
 const List = () => (

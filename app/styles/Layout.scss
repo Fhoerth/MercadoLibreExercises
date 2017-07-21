@@ -1,4 +1,4 @@
-@import "../../styles/theme";
+@import "./theme";
 
 $logo-width: 53px;
 $input-left-margin: $logo-width + 15px;
@@ -34,7 +34,7 @@ div.logo {
     height: 36px;
 
     color: transparent;
-    background-image: url('../../assets/images/Logo_ML.png');
+    background-image: url('../assets/images/Logo_ML.png');
 
     font-size: 0;
     line-height: 0;
@@ -81,7 +81,7 @@ button {
     height: 18px;
     margin: 0 auto;
 
-    background-image: url('../../assets/images/ic_Search.png');
+    background-image: url('../assets/images/ic_Search.png');
     background-repeat: no-repeat;
   }
 }

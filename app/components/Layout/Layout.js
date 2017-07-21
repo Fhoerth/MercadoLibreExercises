@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import styles from './Layout.scss'
+import styles from '../../styles/Layout.scss'
 
 import Header from './Header'
 import Nav from './Nav'

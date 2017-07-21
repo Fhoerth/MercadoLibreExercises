@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from './Products.scss'
+import styles from '../../styles/Products.scss'
 
 const Item = () => (
   <article className={styles.item}>
