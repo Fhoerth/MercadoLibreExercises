@@ -1,10 +1,15 @@
 @import "../../styles/theme";
 
-section.wrapper {
-  width: $col-10;
-  margin-right: auto;
-  margin-left: auto;
+$logo-width: 53px;
+$input-left-margin: $logo-width + 15px;
+$diff: $input-left-margin - $logo-width;
+$button-width: 45px;
 
+section.wrapper {
+  margin-right: $col-1;
+  margin-left: $col-1;
+
+  border-radius: 2px;
   background: #fff;
 }
 
@@ -17,7 +22,100 @@ header.header {
   background: $yellow;
 }
 
-nav.nav {
+div.logo {
+  float: left;
+
+  width: 53px;
+
+  a {
+    display: block;
+
+    width: $logo-width;
+    height: 36px;
+
+    color: transparent;
+    background-image: url('../../assets/images/Logo_ML.png');
+
+    font-size: 0;
+    line-height: 0;
+  }
+}
+
+div.search {
+  width: calc(#{$col-12} - #{$logo-width} - #{$diff} - $button-width);
+  margin-right: $button-width;
+  margin-left: $input-left-margin;
+
+  input {
+    box-sizing: border-box;
+    width: calc(#{$col-12});
+    padding-left: 12px;
+
+    border: 0;
+    border-radius: 4px 0 0 4px;
+
+    line-height: 35px;
+  }
+
+}
+
+button {
+  float: right;
+
+  width: $button-width;
+  height: 37px;
+  padding: 5px 0;
+
+  text-align: center;
+
+  border: 0;
+  background-color: $light-gray;
+
+  line-height: 35px;
+
+  i.icon-search {
+    display: block;
+
+    box-sizing: border-box;
+    width: 18px;
+    height: 18px;
+    margin: 0 auto;
+
+    background-image: url('../../assets/images/ic_Search.png');
+    background-repeat: no-repeat;
+  }
+}
+
+div.clear {
+  clear: both;
+
+  height: 1px;
+
+  line-height: 1px;
+}
+
+nav.breadcrumb {
   width: $col-10;
-  margin: $margin-size-1 $col-1;
+  margin: $separator-size-1 $col-1;
+
+  ol {
+    li {
+      display: inline;
+
+      padding-right: 5px;
+
+      color: $gray;
+
+      font-size: $font-size-medium;
+
+      a {
+        text-decoration: none;
+
+        color: $gray;
+        &.active {
+          font-weight: 700;
+        }
+      }
+    }
+  }
 }

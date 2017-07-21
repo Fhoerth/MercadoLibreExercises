@@ -45,7 +45,7 @@ if (isProduction) {
     module: {
       loaders: [{
         test: /\.scss$/,
-        use: extractCSS.extract(['css-loader?modules&importLoaders=1&localIdentName=[name]__[local]___[hash:base64:5]', 'autoprefixer-loader', 'sass-loader'])
+        use: extractCSS.extract(['css-loader?modules&camelCase=true&importLoaders=1&localIdentName=[name]__[local]___[hash:base64:5]', 'autoprefixer-loader', 'sass-loader'])
       }]
     },
     plugins: [
@@ -82,7 +82,7 @@ if (isProduction) {
     module: {
       loaders: [{
         test: /\.scss$/,
-        loader: 'style-loader!css-loader?modules&importLoaders=1&localIdentName=[name]__[local]___[hash:base64:5]!autoprefixer-loader!sass-loader'
+        loader: 'style-loader!css-loader?modules&camelCase=true&importLoaders=1&localIdentName=[name]__[local]___[hash:base64:5]!autoprefixer-loader!sass-loader'
       }]
     },
     devServer: {

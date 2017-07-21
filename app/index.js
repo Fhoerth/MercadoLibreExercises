@@ -2,9 +2,10 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
 
+import './styles/App.scss'
+
 import App from './App'
-import asd from './styles/App.scss'
-console.log(asd);
+
 const rootEl = document.getElementById('root')
 const render = Component => ReactDOM.render(
   <AppContainer>

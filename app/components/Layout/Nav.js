@@ -1,6 +1,11 @@
 import React from 'react'
-import nav from './Layout.scss'
+import styles from './Layout.scss'
 
 export default () => (
-  <div className={nav.nav}>Navigation Bar</div>
+  <nav className={styles.breadcrumb}>
+    <ol>
+      <li><a href="#">Navigation Bar</a> »</li>
+      <li><a href="#" className={styles.active}>Navigation Bar</a></li>
+    </ol>
+  </nav>
 )
