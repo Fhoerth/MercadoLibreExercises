@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cross-env MODE=test mocha --compilers js:babel-register --require mocha-snapshots --require mocha-babel './__test__/**/*.test.js'",
+    "test": "cross-env MODE=test mocha --compilers js:babel-core/register --require mocha-babel './__test__/**/*.test.js'",
     "build": "cross-env NODE_ENV=production webpack -p --config webpack.config.js",
     "start": "node server.js",
     "dev": "gulp dev",
@@ -59,10 +59,16 @@
     "webpack-hot-middleware": "^2.18.2"
   },
   "dependencies": {
+    "assert": "^1.4.1",
+    "axios": "^0.16.2",
+    "babel-plugin-module-resolver": "^2.7.1",
     "clean-webpack-plugin": "^0.1.16",
     "compression": "^1.7.0",
     "cross-env": "^5.0.1",
+    "enzyme": "^2.9.1",
     "express": "^4.15.3",
-    "file-loader": "^0.11.2"
+    "file-loader": "^0.11.2",
+    "nock": "^9.0.14",
+    "react-test-renderer": "^15.6.1"
   }
 }
