@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "port": "3000",
+    "host": "localhost"
+  },
+  "prod": {
+    "port": "3000",
+    "host": "0.0.0.0"
+  },
+  "dirs": {
+    "app": "app",
+    "public": "public",
+    "dist": "dist",
+    "assets": "assets",
+    "vendor": "vendor"
+  },
+  "dist": {
+    "jsBundleFileName": "bundle.[hash].js",
+    "cssBudleFileName": "bundle.[hash].css"
+  }
+}
