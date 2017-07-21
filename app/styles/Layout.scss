@@ -1,8 +1,7 @@
 @import "./theme";
 
 $logo-width: 53px;
-$input-left-margin: $logo-width + 15px;
-$diff: $input-left-margin - $logo-width;
+$input-left-margin: 15px;
 $button-width: 45px;
 
 section.wrapper {
@@ -42,9 +41,9 @@ div.logo {
 }
 
 div.search {
-  width: calc(#{$col-12} - #{$logo-width} - #{$diff} - $button-width);
+  width: calc(#{$col-12} - #{$logo-width} - #{$input-left-margin} - $button-width);
   margin-right: $button-width;
-  margin-left: $input-left-margin;
+  margin-left: $logo-width + $input-left-margin;
 
   input {
     box-sizing: border-box;
