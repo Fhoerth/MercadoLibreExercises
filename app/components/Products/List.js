@@ -9,19 +9,25 @@ import Spinner from '../common/Spinner'
 
 class List extends React.Component {
   render () {
-    if (this.props.awaitingFetch) {
+    if (this.props.pristine) {
       return (
-        <div className={styles.notification}>
+        <div className={styles.notification} role='description'>
+          <p>Búsqueda de productos.</p>
+        </div>
+      )
+    } else if (this.props.awaitingFetch) {
+      return (
+        <div className={styles.notification} role='dialog'>
           <Spinner />
           <p className={styles.withMargin}>Realizando búsqueda de productos</p>
         </div>
       )
     } else if (this.props.products.length > 0) {
       return (
-        <ol className={styles.list}>
+        <ol className={styles.list} role='list'>
           {this.props.products.map(product => {
             return (
-              <li key={product.id} className={styles.listItem}>
+              <li key={product.id} className={styles.listItem} role='listitem'>
                 <Item product={product} />
               </li>
             )
@@ -30,7 +36,7 @@ class List extends React.Component {
       )
     } else {
       return (
-        <div className={styles.notification}>
+        <div className={styles.notification} role='description'>
           <p>No se encontraron resultados para su búsqueda.</p>
         </div>
       )
@@ -40,7 +46,8 @@ class List extends React.Component {
 
 List.propTypes = {
   products: PropTypes.arrayOf(PropTypes.object),
-  awaitingFetch: PropTypes.bool
+  awaitingFetch: PropTypes.bool,
+  pristine: PropTypes.bool
 }
 
 const ListConnected = connect(
@@ -48,7 +55,8 @@ const ListConnected = connect(
     awaitingFetch: state.products.awaitingFetch,
     fetchSuccess: state.products.fetchSuccess,
     fetchFailure: state.products.fetchFailure,
-    products: state.products.data
+    products: state.products.data,
+    pristine: state.products.pristine
   })
 )(List)
 

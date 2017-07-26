@@ -33,16 +33,16 @@ class Header extends React.Component {
 
   render () {
     return (
-      <header className={styles.header}>
-        <form onSubmit={this.performSearch.bind(this)}>
+      <header className={styles.header} role='heading'>
+        <form onSubmit={this.performSearch.bind(this)} role='search'>
           <div className={styles.logo}>
-            <a className={styles.logo} href="https://www.mercadolibre.com.ar">Mercado Libre - Donde comprar y vender de todo</a>
+            <a href="https://www.mercadolibre.com.ar" role='logo'>Mercado Libre - Donde comprar y vender de todo</a>
           </div>
-          <button type='submit' onClick={this.performSearch.bind(this)}>
-            <i className={styles.iconSearch} />
+          <button type='submit' onClick={this.performSearch.bind(this)} role='button'>
+            <i className={styles.iconSearch} role='icon' />
           </button>
           <div className={styles.search}>
-            <input className={styles.search} onChange={this.handleChange.bind(this)} type='text' placeholder='Buscar productos' />
+            <input className={styles.search} onChange={this.handleChange.bind(this)} role='textbox' type='text' placeholder='Buscar productos' />
           </div>
         </form>
       </header>

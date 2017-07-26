@@ -7,7 +7,9 @@ const FETCH_PRODUCTS_SUCCESS = 'FETCH_PRODUCTS_SUCCESS'
 const FETCH_PRODUCTS_FAILURE = 'FETCH_PRODUCTS_FAILURE'
 
 export const defaultState = {
-  data: []
+  data: [],
+  categoryPath: [],
+  pristine: true
 }
 
 export const actionTypes = {
@@ -44,7 +46,8 @@ export const reducer = (state = defaultState, action) => {
         fetchFailure: false,
         fetchErrorMessage: null,
         data: action.merge ? [ state.data, ...action.response.results ] : action.response.results,
-        categoryPath: extractCategoryFilter(action.response)
+        categoryPath: extractCategoryFilter(action.response),
+        pristine: false
       }
     case FETCH_PRODUCTS_FAILURE:
       return {
@@ -53,7 +56,8 @@ export const reducer = (state = defaultState, action) => {
         awaitingFetchMore: false,
         fetchSuccess: false,
         fetchFailure: true,
-        fetchErrorMessage: action.errorMessage
+        fetchErrorMessage: action.errorMessage,
+        pristine: false
       }
     default:
       return state

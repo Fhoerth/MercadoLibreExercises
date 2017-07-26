@@ -14,7 +14,7 @@ export const initialState = {
 }
 
 export default (preloadedState = initialState) => {
-  const apiClient = new APIClient('https://api.mercadolibre.com/sites/MLA')
+  const apiClient = new APIClient(process.env.MERCADO_LIBRE_API_BASE_URL)
   const sagaMiddleware = createSagaMiddleware()
   const productsSagas = productsResource.createSagas({
     apiFetchProducts: apiClient.fetchProducts.bind(apiClient)

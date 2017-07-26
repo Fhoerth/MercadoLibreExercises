@@ -6,12 +6,12 @@ import styles from '../../styles/Layout.scss'
 import Header from './Header'
 
 const Layout = ({ children }) => (
-  <main>
+  <div>
     <Header />
-    <div className={styles.wrapper}>
+    <main className={styles.wrapper} role='main'>
       {children}
-    </div>
-  </main>
+    </main>
+  </div>
 )
 
 Layout.propTypes = {

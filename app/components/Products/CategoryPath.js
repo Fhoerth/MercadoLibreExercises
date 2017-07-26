@@ -2,9 +2,9 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import styles from '../../styles/Products.scss'
 
-const CategoryPath = ({ categoryPath = [{ id: 1, name: 'Pepe'}, {id: 2, name: 'Popo'}] }) => {
+const CategoryPath = ({ categoryPath }) => {
   return (
-    <nav className={styles.breadcrumb}>
+    <nav className={styles.breadcrumb} role='navigation'>
       <ol>
         {categoryPath.map((category, index) => {
           return (

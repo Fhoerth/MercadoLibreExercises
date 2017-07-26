@@ -1,3 +1,4 @@
+require('dotenv').config()
 const path = require('path')
 const webpack = require('webpack')
 const deepmerge = require('deepmerge')
@@ -12,6 +13,12 @@ const config = require('./config.json')
 
 const isProduction = process.env.NODE_ENV === 'production'
 const entryFile = './' + path.join('app', 'index.js')
+
+const definePlugin = new webpack.DefinePlugin({
+  'process.env': {
+    'MERCADO_LIBRE_API_BASE_URL': JSON.stringify(process.env.MERCADO_LIBRE_API_BASE_URL)
+  }
+})
 
 const baseConfig = {
   output: {
@@ -63,7 +70,8 @@ if (isProduction) {
       new webpack.optimize.UglifyJsPlugin({
         sourceMap: true,
         comments: false
-      })
+      }),
+      definePlugin
     ]
   }, {
     arrayMerge: concat
@@ -96,6 +104,7 @@ if (isProduction) {
       }
     },
     plugins: [
+      definePlugin,
       new CleanWebpackPlugin([config.dirs.public], { exclude: 'vendor' }),
       new HtmlWebpackPlugin({
         filename: 'index.html',

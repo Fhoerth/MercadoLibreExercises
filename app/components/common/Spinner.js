@@ -2,7 +2,7 @@ import React from 'react'
 import styles from '../../styles/Spinner.scss'
 
 export default () => (
-  <div className={styles.skFadingCircle}>
+  <div className={styles.skFadingCircle} role='icon'>
     <div className={`${styles.skCircle1} ${styles.skCircle}`} />
     <div className={`${styles.skCircle2} ${styles.skCircle}`} />
     <div className={`${styles.skCircle3} ${styles.skCircle}`} />
