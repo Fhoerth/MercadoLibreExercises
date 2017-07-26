@@ -7,7 +7,7 @@ const mercadoLibreBaseAPIUrl = 'https://api.mercadolibre.com/sites/MLA'
 
 describe('Products saga', function () {
   describe('fetchProduct', function () {
-    const responseMock = require('../../lib/mocks/search.page1.mock.json')
+    const responseMock = require('../../mocks/ipod.search.mock.json')
     const apiClient = new APIClient(mercadoLibreBaseAPIUrl)
     const boundFetchProducts = apiClient.fetchProducts.bind(apiClient)
     const sagas = productsResource.createSagas({
@@ -42,7 +42,7 @@ describe('Products saga', function () {
         const gen = sagas.fetchProducts(action)
 
         expect(gen.next().value).to.deep.equal(
-          call(boundFetchProducts, { q: 'ipod' })
+          call(boundFetchProducts, { q: 'ipod', page: 1 })
         )
 
         expect(gen.throw(new Error(errorMessage)).value).to.deep.equal(

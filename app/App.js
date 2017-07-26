@@ -1,11 +1,18 @@
 import React from 'react'
-import Layout from './components/Layout/Layout'
-import ProductList from './components/Products/List'
+import { Route } from 'react-router'
+import { Provider } from 'react-redux'
+import { ConnectedRouter } from 'react-router-redux'
 
-const App = () => (
-  <Layout>
-    <ProductList />
-  </Layout>
+import IndexPage from './pages/index'
+
+const createApp = (store, history) => () => (
+  <Provider key='provider' store={store}>
+    <ConnectedRouter key='connected-router' history={history}>
+      <div key='main'>
+        <Route exact path='/' component={IndexPage} />
+      </div>
+    </ConnectedRouter>
+  </Provider>
 )
 
-export default App
+export default createApp

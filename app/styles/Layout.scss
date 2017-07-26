@@ -4,12 +4,16 @@ $logo-width: 53px;
 $input-left-margin: 15px;
 $button-width: 45px;
 
-section.wrapper {
+div.wrapper {
   margin-right: $col-1;
   margin-left: $col-1;
 
   border-radius: 2px;
-  background: #fff;
+  padding-bottom: $separator-size-2
+}
+
+section.mainSection {
+  background: $white;
 }
 
 header.header {
@@ -91,30 +95,4 @@ div.clear {
   height: 1px;
 
   line-height: 1px;
-}
-
-nav.breadcrumb {
-  width: $col-10;
-  margin: $separator-size-1 $col-1;
-
-  ol {
-    li {
-      display: inline;
-
-      padding-right: 5px;
-
-      color: $gray;
-
-      font-size: $font-size-medium;
-
-      a {
-        text-decoration: none;
-
-        color: $gray;
-        &.active {
-          font-weight: 700;
-        }
-      }
-    }
-  }
 }

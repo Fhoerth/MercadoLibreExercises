@@ -15,7 +15,7 @@ export const actionTypes = {
   FETCH_PRODUCTS_FAILURE
 }
 
-const fetchProducts = ({ q = '', page, productsPerPage, merge = false } = {}) => ({
+const fetchProducts = ({ q = '', page = 1, productsPerPage = null, merge = false } = {}) => ({
   type: FETCH_PRODUCTS,
   merge,
   q,
@@ -33,11 +33,12 @@ export const actionCreators = {
 export const reducer = (state = defaultState, action) => {
   switch (action.type) {
     case FETCH_PRODUCTS:
-      return { ...state, awaitingFetch: true }
+    return { ...state, awaitingFetch: action.merge ? state.awaitingFetch : true,  awaitingFetchMore: action.merge ? true : state.awaitingFetchMore }
     case FETCH_PRODUCTS_SUCCESS:
       return {
         ...state,
         awaitingFetch: false,
+        awaitingFetchMore: false,
         fetchSuccess: true,
         fetchFailure: false,
         fetchErrorMessage: null,
@@ -47,6 +48,7 @@ export const reducer = (state = defaultState, action) => {
       return {
         ...state,
         awaitingFetch: false,
+        awaitingFetchMore: false,
         fetchSuccess: false,
         fetchFailure: true,
         fetchErrorMessage: action.errorMessage
@@ -65,7 +67,7 @@ export const createSagas = ({ apiFetchProducts }) => {
       )(action)
 
       const products = yield call(apiFetchProducts, definedParams)
-      yield put(actionCreators.fetchProductsSuccess(products))
+      yield put(actionCreators.fetchProductsSuccess(products || []))
     } catch (e) {
       yield put(actionCreators.fetchProductsFailure(e.message || 'Couldn\'t fetch products'))
     }

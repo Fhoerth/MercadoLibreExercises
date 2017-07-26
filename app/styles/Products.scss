@@ -60,6 +60,12 @@ section.description {
     color: $dark-gray;
 
     font-size: $font-size-large;
+
+    a {
+      text-decoration: none;
+
+      color: $dark-gray;
+    }
   }
 
   div.clear {
@@ -68,5 +74,40 @@ section.description {
     height: 1px;
 
     line-height: 1px;
+  }
+}
+
+div.awaiting-fetch {
+  padding: $separator-size-2 0;
+  text-align: center;
+
+  p {
+    margin-top: $separator-size-2;
+  }
+}
+
+nav.breadcrumb {
+  width: $col-12;
+  margin: $separator-size-1 0;
+
+  ol {
+    li {
+      display: inline;
+
+      padding-right: 5px;
+
+      color: $gray;
+
+      font-size: $font-size-medium;
+
+      a {
+        text-decoration: none;
+
+        color: $gray;
+        &.active {
+          font-weight: 700;
+        }
+      }
+    }
   }
 }

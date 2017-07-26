@@ -1,0 +1,3671 @@
+{
+  "site_id": "MLA",
+  "query": "apple ipod",
+  "paging": {
+    "total": 788,
+    "offset": 0,
+    "limit": 50
+  },
+  "results": [
+    {
+      "id": "MLA627480404",
+      "site_id": "MLA",
+      "title": "Apple Ipod Touch 32gb 6ta Generacion",
+      "seller": {
+        "id": 210666140,
+        "power_seller_status": "silver",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 7500,
+      "currency_id": "ARS",
+      "available_quantity": 6,
+      "sold_quantity": 14,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-07-08T19:11:38.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-627480404-apple-ipod-touch-32gb-6ta-generacion-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/110215-MLA25160971599_112016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "Cañitas"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 181424202,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "Cañitas"
+        },
+        "latitude": -34.6036844,
+        "longitude": -58.3815591
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA43718",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA663342493",
+      "site_id": "MLA",
+      "title": "Ipod Nano 16gb Apple 7ma Generación Gold",
+      "seller": {
+        "id": 112965717,
+        "power_seller_status": "silver",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 5500,
+      "currency_id": "ARS",
+      "available_quantity": 2,
+      "sold_quantity": 2,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-04-17T23:24:42.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-663342493-ipod-nano-16gb-apple-7ma-generacion-gold-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/757424-MLA25709104155_062017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlZJTDQyMjBa",
+        "city_name": "Villa Crespo"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 131479650,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlZJTDQyMjBa",
+          "name": "Villa Crespo"
+        },
+        "latitude": -34.6057722,
+        "longitude": -58.4399464
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA51772",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA654962350",
+      "site_id": "MLA",
+      "title": "Ipod Shuffle 2gb 4ta Generación Apple - Mejor Opción!",
+      "seller": {
+        "id": 97007624,
+        "power_seller_status": "gold",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 1849,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 2,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-02-15T14:10:43.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-654962350-ipod-shuffle-2gb-4ta-generacion-apple-mejor-opcion-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/264125-MLA25387343956_022017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlZJTDc4MDda",
+        "city_name": "Villa del Parque"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 72488084,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlZJTDc4MDda",
+          "name": "Villa del Parque"
+        },
+        "latitude": -34.6061001,
+        "longitude": -58.4765961
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA12818",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA603701702",
+      "site_id": "MLA",
+      "title": "Apple Ipod Touch 6ta Gen 16gb Ultima Generacion Caja Sellad",
+      "seller": {
+        "id": 118350112,
+        "power_seller_status": "silver",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 5999.97,
+      "currency_id": "ARS",
+      "available_quantity": 346,
+      "sold_quantity": 154,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-03-27T01:44:52.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-603701702-apple-ipod-touch-6ta-gen-16gb-ultima-generacion-caja-sellad-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/977901-MLA20426607586_092015-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "",
+        "city_name": "OLIVOS"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 154569797,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "",
+          "name": "OLIVOS"
+        },
+        "latitude": -34.5071759,
+        "longitude": -58.5087938
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA32614",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+        "rating_average": 5,
+        "total": 3
+      }
+    },
+    {
+      "id": "MLA627480390",
+      "site_id": "MLA",
+      "title": "Apple Ipod Touch 16gb 6ta Generación",
+      "seller": {
+        "id": 210666140,
+        "power_seller_status": "silver",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 6000,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 9,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-07-08T19:11:38.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-627480390-apple-ipod-touch-16gb-6ta-generacion-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/541215-MLA25159682068_112016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "Cañitas"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 181424202,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "Cañitas"
+        },
+        "latitude": -34.6036844,
+        "longitude": -58.3815591
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA32614",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA641479001",
+      "site_id": "MLA",
+      "title": "Ipod Touch 5 32gb 5ta Generación Apple Impecable! Rosa",
+      "seller": {
+        "id": 79504969,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 3300,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 1,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-10-30T00:40:58.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-641479001-ipod-touch-5-32gb-5ta-generacion-apple-impecable-rosa-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/668121-MLA20712665199_052016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlZJTDcwOTla",
+        "city_name": "Villa Urquiza"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "not_specified",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 147189960,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlZJTDcwOTla",
+          "name": "Villa Urquiza"
+        },
+        "latitude": -34.5658552,
+        "longitude": -58.4917857
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA43718",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA614094901",
+      "site_id": "MLA",
+      "title": "Ipod Nano 16gb 7ma Generación Apple",
+      "seller": {
+        "id": 146385957,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 5699,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 14,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-05-01T19:38:15.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-614094901-ipod-nano-16gb-7ma-generacion-apple-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/16701-MLA20125773676_072014-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQkJFTDcyNTJa",
+        "city_name": "Belgrano"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 118143810,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQkJFTDcyNTJa",
+          "name": "Belgrano"
+        },
+        "latitude": -34.5650157,
+        "longitude": -58.4689034
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA51772",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA606755290",
+      "site_id": "MLA",
+      "title": "Apple Ipod Shuffle 2gb 5ta Generacion Nuevo Sellado",
+      "seller": {
+        "id": 194408525,
+        "power_seller_status": "silver",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 1950,
+      "currency_id": "ARS",
+      "available_quantity": 2,
+      "sold_quantity": 8,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-01-07T14:09:45.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-606755290-apple-ipod-shuffle-2gb-5ta-generacion-nuevo-sellado-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/810611-MLA20594408487_022016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-X",
+        "state_name": "Córdoba",
+        "city_id": "",
+        "city_name": "Cordoba"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 175076874,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-X",
+          "name": "Córdoba"
+        },
+        "city": {
+          "id": "",
+          "name": "Cordoba"
+        },
+        "latitude": -31.3493494,
+        "longitude": -64.2413957
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA12818",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA592958590",
+      "site_id": "MLA",
+      "title": "Docking Philips Parlante Cargador Apple Iphone 6-7 Ipad Dock",
+      "seller": {
+        "id": 21540824,
+        "power_seller_status": "platinum",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 3999.99,
+      "currency_id": "ARS",
+      "available_quantity": 9972,
+      "sold_quantity": 43,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-03-23T19:57:27.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-592958590-docking-philips-parlante-cargador-apple-iphone-6-7-ipad-dock-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/711060-MLA25558725770_052017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "Capital Federal"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 56156718,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "Capital Federal"
+        },
+        "latitude": -34.6244351,
+        "longitude": -58.4072848
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA9853",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+        "rating_average": 4.3,
+        "total": 3
+      }
+    },
+    {
+      "id": "MLA645941767",
+      "site_id": "MLA",
+      "title": "Apple Ipod Shuffle 2gb - Envío Sin Cargo! 5ta Generacion",
+      "seller": {
+        "id": 228102979,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 2450,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 4,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-12-05T14:16:39.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-645941767-apple-ipod-shuffle-2gb-envio-sin-cargo-5ta-generacion-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/640315-MLA25216000925_122016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "",
+        "city_name": "Haedo"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 192954723,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "",
+          "name": "Haedo"
+        },
+        "latitude": -34.6444745,
+        "longitude": -58.5842695
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA12818",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA657295051",
+      "site_id": "MLA",
+      "title": "Apple Ipod Touch 32gb (5ta Generación)",
+      "seller": {
+        "id": 22226909,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 3000,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-03-05T09:40:38.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-657295051-apple-ipod-touch-32gb-5ta-generacion-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/237015-MLA25212278910_122016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "Capital Federal"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "not_specified",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 150946811,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "Capital Federal"
+        },
+        "latitude": -34.6050056,
+        "longitude": -58.4055549
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA43718",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA661041805",
+      "site_id": "MLA",
+      "title": "Ipod Nano 6ª Generación Apple 16 Gb Color Graphite A Reparar",
+      "seller": {
+        "id": 10403537,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 2499.99,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 1,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-03-31T23:14:23.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-661041805-ipod-nano-6-generacion-apple-16-gb-color-graphite-a-reparar-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/131825-MLA25487112350_042017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQk1PTjUxOTJa",
+        "city_name": "Monserrat"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 175515452,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQk1PTjUxOTJa",
+          "name": "Monserrat"
+        },
+        "latitude": -34.6104075,
+        "longitude": -58.383499
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA51772",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA614564278",
+      "site_id": "MLA",
+      "title": "Pantalla Vidrio Touch Lcd Apple Ipod Touch 4 Original Full",
+      "seller": {
+        "id": 12650912,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 650,
+      "currency_id": "ARS",
+      "available_quantity": 2,
+      "sold_quantity": 1,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-03-25T13:10:22.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-614564278-pantalla-vidrio-touch-lcd-apple-ipod-touch-4-original-full-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/4122-MLA2544497600_032012-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "buenos aires"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "not_specified",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 116550363,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "buenos aires"
+        },
+        "latitude": -34.6019098,
+        "longitude": -58.4480356
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA32614",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA637823735",
+      "site_id": "MLA",
+      "title": "Cable Usb Lightning Original Apple Ipod Iphone Ipad 2 Metros",
+      "seller": {
+        "id": 94579124,
+        "power_seller_status": "platinum",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 550,
+      "currency_id": "ARS",
+      "available_quantity": 980,
+      "sold_quantity": 19,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-10-01T14:50:40.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-637823735-cable-usb-lightning-original-apple-ipod-iphone-ipad-2-metros-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/786730-MLA25651486536_062017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQkZMTzg5MjFa",
+        "city_name": "Floresta"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 67542794,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQkZMTzg5MjFa",
+          "name": "Floresta"
+        },
+        "latitude": -34.6281237,
+        "longitude": -58.49128
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA70347",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+        "rating_average": 5,
+        "total": 3
+      }
+    },
+    {
+      "id": "MLA609126692",
+      "site_id": "MLA",
+      "title": "Apple Ipod Shuffle 2gb 5ta Generacion Ramos Mejia Exclusivo",
+      "seller": {
+        "id": 90583461,
+        "power_seller_status": "platinum",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 1999.99,
+      "currency_id": "ARS",
+      "available_quantity": 997,
+      "sold_quantity": 2,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-06-11T16:41:22.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-609126692-apple-ipod-shuffle-2gb-5ta-generacion-ramos-mejia-exclusivo-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/697611-MLA20614003754_032016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "",
+        "city_name": "Ramos Mejia"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 117951115,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "",
+          "name": "Ramos Mejia"
+        },
+        "latitude": -34.6611943,
+        "longitude": -58.5619829
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA12818",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA666841402",
+      "site_id": "MLA",
+      "title": "Apple Ipod Touch 32gb 6ta Generación",
+      "seller": {
+        "id": 42028192,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 7600,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-05-14T00:34:41.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-666841402-apple-ipod-touch-32gb-6ta-generacion-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/898844-MLA25601548005_052017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "TUxBQ0dFTmVyYWxz",
+        "city_name": "General San Martín"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 80823033,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "TUxBQ0dFTmVyYWxz",
+          "name": "General San Martín"
+        },
+        "latitude": -34.5794194,
+        "longitude": -58.5294733
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA43718",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA606000210",
+      "site_id": "MLA",
+      "title": "Vidrio Touch Pantalla Lcd Ipod 5 Original Apple +instalación",
+      "seller": {
+        "id": 10504118,
+        "power_seller_status": "gold",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 1699.99,
+      "currency_id": "ARS",
+      "available_quantity": 9,
+      "sold_quantity": 26,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-02-10T19:11:39.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-606000210-vidrio-touch-pantalla-lcd-ipod-5-original-apple-instalacion-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/162001-MLA20251537276_022015-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "TRIBUNALES / SAN NICOLAS"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 68733300,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "TRIBUNALES / SAN NICOLAS"
+        },
+        "latitude": -34.6021118,
+        "longitude": -58.3851437
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA32229",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA616627543",
+      "site_id": "MLA",
+      "title": "Apple Ipod Nano 16gb 7th Md479e/a, Reproductor, M Pago_1",
+      "seller": {
+        "id": 190832480,
+        "power_seller_status": "platinum",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 4063.06,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 1,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-04-10T11:58:18.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-616627543-apple-ipod-nano-16gb-7th-md479ea-reproductor-m-pago1-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/630911-MLA20672834074_042016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-S",
+        "state_name": "Santa Fe",
+        "city_id": "TUxBQ1JPUzg1Yjg3",
+        "city_name": "Rosario"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 168150844,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-S",
+          "name": "Santa Fe"
+        },
+        "city": {
+          "id": "TUxBQ1JPUzg1Yjg3",
+          "name": "Rosario"
+        },
+        "latitude": -32.9525549,
+        "longitude": -60.633282
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA51772",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA674559459",
+      "site_id": "MLA",
+      "title": "Apple Ipod Touch 5ta Gen 16gb Nuevo Retina Caja Cerrada",
+      "seller": {
+        "id": 158604093,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 5000,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-07-09T23:37:52.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-674559459-apple-ipod-touch-5ta-gen-16gb-nuevo-retina-caja-cerrada-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/731074-MLA25755665720_072017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "",
+        "city_name": "Ciudad Evita"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 166831086,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "",
+          "name": "Ciudad Evita"
+        },
+        "latitude": -34.7139057,
+        "longitude": -58.5389662
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA32614",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA609129136",
+      "site_id": "MLA",
+      "title": "Apple Ipod Shuffle 2gb 5ta Generacion 12 Cuotas Colores Oca",
+      "seller": {
+        "id": 195827973,
+        "power_seller_status": "gold",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 2399.99,
+      "currency_id": "ARS",
+      "available_quantity": 996,
+      "sold_quantity": 3,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-02-27T16:32:12.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-609129136-apple-ipod-shuffle-2gb-5ta-generacion-12-cuotas-colores-oca-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/496711-MLA20614021724_032016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "",
+        "city_name": "Ramos Mejía"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 171663955,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "",
+          "name": "Ramos Mejía"
+        },
+        "latitude": -34.6611943,
+        "longitude": -58.5619829
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA12818",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA660454480",
+      "site_id": "MLA",
+      "title": "Ipod Touch 6 16gb Nuevo Sin Caja - Garantía Apple",
+      "seller": {
+        "id": 53394678,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 4500,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-05-12T15:20:27.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-660454480-ipod-touch-6-16gb-nuevo-sin-caja-garantia-apple-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/576815-MLA25326561117_012017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-Q",
+        "state_name": "Neuquén",
+        "city_id": "TUxBQ05FVXF1ZW4",
+        "city_name": "Neuquén"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 98933294,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-Q",
+          "name": "Neuquén"
+        },
+        "city": {
+          "id": "TUxBQ05FVXF1ZW4",
+          "name": "Neuquén"
+        },
+        "latitude": -38.9595058,
+        "longitude": -68.1222073
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA32614",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA671085208",
+      "site_id": "MLA",
+      "title": "Ipod Touch 5g 5ta 32gb Apple Color Zona Norte",
+      "seller": {
+        "id": 9699354,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 2599,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-06-13T02:34:34.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-671085208-ipod-touch-5g-5ta-32gb-apple-color-zona-norte-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/610628-MLA25683197366_062017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "TUxBQ1NBTjg4ZmJk",
+        "city_name": "San Isidro"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 81146021,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "TUxBQ1NBTjg4ZmJk",
+          "name": "San Isidro"
+        },
+        "latitude": -34.7856827,
+        "longitude": -58.4138909
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA43718",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA669350488",
+      "site_id": "MLA",
+      "title": "Ipod Nano 16gb Rosa 7g Nuevo Original Apple Sellado Garantía",
+      "seller": {
+        "id": 97007624,
+        "power_seller_status": "gold",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 4799,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-06-01T01:14:54.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-669350488-ipod-nano-16gb-rosa-7g-nuevo-original-apple-sellado-garantia-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/613953-MLA25649425371_062017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlZJTDc4MDda",
+        "city_name": "Villa del Parque"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 72488084,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlZJTDc4MDda",
+          "name": "Villa del Parque"
+        },
+        "latitude": -34.6061001,
+        "longitude": -58.4765961
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA51772",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA606195935",
+      "site_id": "MLA",
+      "title": "Cable Usb Original Apple Ipod Shuffle 3.5m Carga Dato Centro",
+      "seller": {
+        "id": 10504118,
+        "power_seller_status": "gold",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 150,
+      "currency_id": "ARS",
+      "available_quantity": 28,
+      "sold_quantity": 380,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-02-11T18:58:03.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-606195935-cable-usb-original-apple-ipod-shuffle-35m-carga-dato-centro-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/542211-MLA20503827737_112015-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "TRIBUNALES / SAN NICOLAS"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 68733300,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "TRIBUNALES / SAN NICOLAS"
+        },
+        "latitude": -34.6021118,
+        "longitude": -58.3851437
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA8860",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+        "rating_average": 4.6,
+        "total": 17
+      }
+    },
+    {
+      "id": "MLA640040636",
+      "site_id": "MLA",
+      "title": "Apple Ipod Shuffle 2gb 5ta Generacion Eeuu",
+      "seller": {
+        "id": 229978639,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 1899,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 1,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-10-26T00:11:15.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-640040636-apple-ipod-shuffle-2gb-5ta-generacion-eeuu-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/338905-MLA25123235783_102016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "BARRANCAS DE BELGRANO"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 194330637,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "BARRANCAS DE BELGRANO"
+        },
+        "latitude": -34.5620844,
+        "longitude": -58.4566864
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA12818",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA674157160",
+      "site_id": "MLA",
+      "title": "Apple Ipod Touch 6 32gb 6ta Generación C/funda - 1 Año Gtia.",
+      "seller": {
+        "id": 166407186,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 5299,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-07-07T01:19:14.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-674157160-apple-ipod-touch-6-32gb-6ta-generacion-cfunda-1-ano-gtia-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/888710-MLA25746447974_072017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "TUxBQ1NBTm1pZ3VlbA",
+        "city_name": "San Miguel"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 150060035,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "TUxBQ1NBTm1pZ3VlbA",
+          "name": "San Miguel"
+        },
+        "latitude": -34.6040227,
+        "longitude": -58.7261177
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA32614",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA671856292",
+      "site_id": "MLA",
+      "title": "Apple Ipod Touch 5 32gb Azul Excelente Estado!!",
+      "seller": {
+        "id": 15578382,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 3500,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-07-19T13:50:35.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-671856292-apple-ipod-touch-5-32gb-azul-excelente-estado-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/381515-MLA25246194677_122016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "CABA"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 102364870,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "CABA"
+        },
+        "latitude": -34.5860015,
+        "longitude": -58.3945273
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA43718",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA614923098",
+      "site_id": "MLA",
+      "title": "Radio Reloj Despertador Ihome Ibn97 Bt Usb Iphone Ipod Apple",
+      "seller": {
+        "id": 31078989,
+        "power_seller_status": "platinum",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 3899,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 5,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-03-27T20:57:02.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-614923098-radio-reloj-despertador-ihome-ibn97-bt-usb-iphone-ipod-apple-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/763011-MLA20461189716_102015-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "CiudadAutónomadeBuenosAires"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 123281497,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "CiudadAutónomadeBuenosAires"
+        },
+        "latitude": -34.6322417,
+        "longitude": -58.4920706
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA91732",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA656426477",
+      "site_id": "MLA",
+      "title": "Apple Ipod Nano 16gb Dorado Como Nuevo!",
+      "seller": {
+        "id": 147543966,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 2750,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-02-26T19:30:28.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-656426477-apple-ipod-nano-16gb-dorado-como-nuevo-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/484925-MLA25516276373_042017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "capital federal"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 150462921,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "capital federal"
+        },
+        "latitude": -34.6240306,
+        "longitude": -58.4407528
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA51772",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA608803143",
+      "site_id": "MLA",
+      "title": "Apple Ipod Shuffle 2gb 2015 Model M Pago_1",
+      "seller": {
+        "id": 190832480,
+        "power_seller_status": "platinum",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 1450.23,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 39,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-02-25T22:31:30.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-608803143-apple-ipod-shuffle-2gb-2015-model-m-pago1-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/574311-MLA20524932840_122015-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-S",
+        "state_name": "Santa Fe",
+        "city_id": "TUxBQ1JPUzg1Yjg3",
+        "city_name": "Rosario"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 168150844,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-S",
+          "name": "Santa Fe"
+        },
+        "city": {
+          "id": "TUxBQ1JPUzg1Yjg3",
+          "name": "Rosario"
+        },
+        "latitude": -32.9525549,
+        "longitude": -60.633282
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA12818",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+        "rating_average": 5,
+        "total": 3
+      }
+    },
+    {
+      "id": "MLA672931027",
+      "site_id": "MLA",
+      "title": "Ipod Touch 4 Aple 32 Gb - Blanco Con Plateado",
+      "seller": {
+        "id": 158017565,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 2500,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-06-28T01:46:04.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-672931027-ipod-touch-4-aple-32-gb-blanco-con-plateado-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/869838-MLA25721649586_072017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlNBTjgzMjRa",
+        "city_name": "San Nicolás"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 139833711,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlNBTjgzMjRa",
+          "name": "San Nicolás"
+        },
+        "latitude": -34.6066869,
+        "longitude": -58.3710962
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA43718",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA660366888",
+      "site_id": "MLA",
+      "title": "Joystick Steelseries Nimbus Para Apple Tv Ipad Iphone Ipod",
+      "seller": {
+        "id": 27548708,
+        "power_seller_status": "gold",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 1479,
+      "currency_id": "ARS",
+      "available_quantity": 12,
+      "sold_quantity": 9,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-03-26T18:26:29.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-660366888-joystick-steelseries-nimbus-para-apple-tv-ipad-iphone-ipod-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/733625-MLA25475083170_032017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlBBTDI1MTVa",
+        "city_name": "Palermo"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 145380510,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlBBTDI1MTVa",
+          "name": "Palermo"
+        },
+        "latitude": -34.5859343,
+        "longitude": -58.4279546
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA125290",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA647729371",
+      "site_id": "MLA",
+      "title": "Apple Ipod Touch 5 Generación 32gb",
+      "seller": {
+        "id": 56613221,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 5900,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 1,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-12-19T20:48:12.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-647729371-apple-ipod-touch-5-generacion-32gb-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/793305-MLA25006161832_082016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "caba"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 85945995,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "caba"
+        },
+        "latitude": -34.5408938,
+        "longitude": -58.4648926
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA43718",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA670283568",
+      "site_id": "MLA",
+      "title": "Apple - Ipod Shuffle 2 Gb",
+      "seller": {
+        "id": 33542147,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 1999,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-06-07T13:21:27.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-670283568-apple-ipod-shuffle-2-gb-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/732155-MLA25666603518_062017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "",
+        "city_name": "Villa Martelli"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 185011105,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "",
+          "name": "Villa Martelli"
+        },
+        "latitude": -34.5532192,
+        "longitude": -58.5183996
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA12818",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA669073639",
+      "site_id": "MLA",
+      "title": "Apple Ipod Nano 6ta Generación Touch 16gb Mp3 Radio Runing",
+      "seller": {
+        "id": 113490081,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 2247.19,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-05-29T22:18:19.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-669073639-apple-ipod-nano-6ta-generacion-touch-16gb-mp3-radio-runing-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/993405-MLA25644765140_062017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlZJTDYzNzZa",
+        "city_name": "Villa Devoto"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 168498853,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlZJTDYzNzZa",
+          "name": "Villa Devoto"
+        },
+        "latitude": -34.6124817,
+        "longitude": -58.5089475
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA51772",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA656512664",
+      "site_id": "MLA",
+      "title": "Apple Ipod Touch 5 Ta Generación De 32 Gb Impecable Con Caja",
+      "seller": {
+        "id": 50992441,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 2800,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 1,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-02-27T14:17:48.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-656512664-apple-ipod-touch-5-ta-generacion-de-32-gb-impecable-con-caja-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/114315-MLA25228779946_122016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "Caba"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "not_specified",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 128781894,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "Caba"
+        },
+        "latitude": -34.6037232,
+        "longitude": -58.3815931
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA43718",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA627282565",
+      "site_id": "MLA",
+      "title": "Cargador Apple Iphone 4 5 6 6 Plus Ipod Original 5w (a1444)",
+      "seller": {
+        "id": 5427093,
+        "power_seller_status": "gold",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 489.99,
+      "currency_id": "ARS",
+      "available_quantity": 9,
+      "sold_quantity": 75,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-07-07T04:45:59.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-627282565-cargador-apple-iphone-4-5-6-6-plus-ipod-original-5w-a1444-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/962443-MLA25754275031_072017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "Microcentro"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 86710433,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "Microcentro"
+        },
+        "latitude": -34.6037232,
+        "longitude": -58.3815931
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA408004",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+        "rating_average": 3.4,
+        "total": 5
+      }
+    },
+    {
+      "id": "MLA651638449",
+      "site_id": "MLA",
+      "title": "Apple Ipod Classic Reproductor De 7th Generación 256gb Ssd",
+      "seller": {
+        "id": 163712235,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 10600,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-01-21T15:40:10.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-651638449-apple-ipod-classic-reproductor-de-7th-generacion-256gb-ssd-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/313321-MLA20741135486_052016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "",
+        "city_name": "LANUS"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 148259513,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "",
+          "name": "LANUS"
+        },
+        "latitude": -34.6751933,
+        "longitude": -58.3589035
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA31594",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA662132735",
+      "site_id": "MLA",
+      "title": "Ipod Touch 5ta Generación Apple 32 Gb Oportunidad",
+      "seller": {
+        "id": 202700854,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 2249,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 1,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-04-08T22:31:17.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-662132735-ipod-touch-5ta-generacion-apple-32-gb-oportunidad-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/202525-MLA25440403168_032017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "",
+        "city_name": "SAENZ PEÑA"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 175672445,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "",
+          "name": "SAENZ PEÑA"
+        },
+        "latitude": -34.5998026,
+        "longitude": -58.5338812
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA43718",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA672350488",
+      "site_id": "MLA",
+      "title": "Apple Ipod Nano 7ma Generacion+ Chip Nike+ +brazalete Oferta",
+      "seller": {
+        "id": 118584803,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 2250,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-06-23T12:38:39.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-672350488-apple-ipod-nano-7ma-generacion-chip-nike-brazalete-oferta-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/976071-MLA25710098473_062017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlBVRTQ5NjBa",
+        "city_name": "Puerto Madero"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 152474940,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlBVRTQ5NjBa",
+          "name": "Puerto Madero"
+        },
+        "latitude": -34.604729,
+        "longitude": -58.3641994
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA51772",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA671554026",
+      "site_id": "MLA",
+      "title": "Apple Ipod Touch 5th Generation 32gb",
+      "seller": {
+        "id": 23162013,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 2190,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 2,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-06-16T22:53:22.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-671554026-apple-ipod-touch-5th-generation-32gb-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/547025-MLA25368303758_022017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "CABA"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "not_specified",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 109613438,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "CABA"
+        },
+        "latitude": -34.572972,
+        "longitude": -58.45831
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA32614",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA616235259",
+      "site_id": "MLA",
+      "title": "Memoria Extraible 32gb Para Iphone Ipad Ipod Iflash",
+      "seller": {
+        "id": 42932597,
+        "power_seller_status": "platinum",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 900,
+      "currency_id": "ARS",
+      "available_quantity": 2,
+      "sold_quantity": 50,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-04-07T14:07:51.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-616235259-memoria-extraible-32gb-para-iphone-ipad-ipod-iflash-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/23462-MLA20248096788_022015-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlBBTDI1MTVa",
+        "city_name": "Palermo"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 143497842,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlBBTDI1MTVa",
+          "name": "Palermo"
+        },
+        "latitude": -34.5861003,
+        "longitude": -58.4112203
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA57506",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+        "rating_average": 3.3,
+        "total": 3
+      }
+    },
+    {
+      "id": "MLA637243188",
+      "site_id": "MLA",
+      "title": "Apple Ipod Shuffle 2gb. Me Queda La Ultima",
+      "seller": {
+        "id": 54835551,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 1500,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-09-26T20:48:58.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-637243188-apple-ipod-shuffle-2gb-me-queda-la-ultima-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/765905-MLA25080144933_102016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "TUxBQ1ZJTGU4OGM3",
+        "city_name": "Villa Gesell"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 103254156,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "TUxBQ1ZJTGU4OGM3",
+          "name": "Villa Gesell"
+        },
+        "latitude": -37.25247,
+        "longitude": -56.9767045
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA12818",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA669183444",
+      "site_id": "MLA",
+      "title": "Apple Ipod Touch 5g De 32gb Con Correa Y Cable Nuevo",
+      "seller": {
+        "id": 7745453,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 3000,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 1,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-05-31T00:58:00.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-669183444-apple-ipod-touch-5g-de-32gb-con-correa-y-cable-nuevo-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/373625-MLA25475454622_032017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlZJTDcwOTla",
+        "city_name": "Villa Urquiza"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 83939328,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlZJTDcwOTla",
+          "name": "Villa Urquiza"
+        },
+        "latitude": -34.5742753,
+        "longitude": -58.482024
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA43718",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA664970899",
+      "site_id": "MLA",
+      "title": "Ipod Shuffle Apple",
+      "seller": {
+        "id": 1480632,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 850,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-05-12T04:31:33.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-664970899-ipod-shuffle-apple-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/816464-MLA25565517648_052017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlBBTDI1MTVa",
+        "city_name": "Palermo"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 147852424,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlBBTDI1MTVa",
+          "name": "Palermo"
+        },
+        "latitude": -34.5882064,
+        "longitude": -58.4197608
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA12818",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA667414852",
+      "site_id": "MLA",
+      "title": "Apple Ipod Touch Ultima Generación Caja Sellada Nuevos 16gb",
+      "seller": {
+        "id": 244326987,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 5000,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 1,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-05-18T14:13:06.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-667414852-apple-ipod-touch-ultima-generacion-caja-sellada-nuevos-16gb-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/879025-MLA25387498776_022017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlZJTDYzNzZa",
+        "city_name": "Villa Devoto"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 241524991,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlZJTDYzNzZa",
+          "name": "Villa Devoto"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA32614",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA637468527",
+      "site_id": "MLA",
+      "title": "Apple Ipod Nano 16gb 7 Generación Con Accesorios A1446",
+      "seller": {
+        "id": 229978639,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 5399,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-10-05T02:01:30.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-637468527-apple-ipod-nano-16gb-7-generacion-con-accesorios-a1446-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/934905-MLA25082632972_102016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "BARRANCAS DE BELGRANO"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 194330637,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "BARRANCAS DE BELGRANO"
+        },
+        "latitude": -34.5620844,
+        "longitude": -58.4566864
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA51772",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA615605044",
+      "site_id": "MLA",
+      "title": "Cable Iphone 4 4s Ipod Touch Nano Ipad 2 3 Original Apple",
+      "seller": {
+        "id": 76663977,
+        "power_seller_status": "silver",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 299.99,
+      "currency_id": "ARS",
+      "available_quantity": 661,
+      "sold_quantity": 93,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-04-01T23:49:53.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-615605044-cable-iphone-4-4s-ipod-touch-nano-ipad-2-3-original-apple-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/972911-MLA20661181205_042016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "",
+        "city_name": "Congreso"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 129278386,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "",
+          "name": "Congreso"
+        },
+        "latitude": -34.6061452,
+        "longitude": -58.4007253
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca del cable",
+          "value_id": "433695",
+          "value_name": "Iphone",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Atributos Principales"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo del cable",
+          "value_id": null,
+          "value_name": "Iphone 4",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Atributos Principales"
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA70347",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+        "rating_average": 4.6,
+        "total": 7
+      }
+    },
+    {
+      "id": "MLA674775720",
+      "site_id": "MLA",
+      "title": "Ipod Shuffle 3 Ra Generación 2gb A1271 Apple Con Usb",
+      "seller": {
+        "id": 256738518,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 500,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-07-12T01:44:49.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-674775720-ipod-shuffle-3-ra-generacion-2gb-a1271-apple-con-usb-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/941026-MLA25601569834_052017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "",
+        "city_name": "General San Martin"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "not_specified",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 271990966,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "",
+          "name": "General San Martin"
+        },
+        "latitude": -34.5323309,
+        "longitude": -58.5118209
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA12819",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    },
+    {
+      "id": "MLA671238003",
+      "site_id": "MLA",
+      "title": "Apple Ipad Air 2 32g Wifi Chip A8 Nuevo Regalo Navidad Envio",
+      "seller": {
+        "id": 210018018,
+        "power_seller_status": "platinum",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 14999.99,
+      "currency_id": "ARS",
+      "available_quantity": 999,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-06-14T15:14:10.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-671238003-apple-ipad-air-2-32g-wifi-chip-a8-nuevo-regalo-navidad-envio-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/600956-MLA25710931259_062017-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQkJFTDcyNTJa",
+        "city_name": "Belgrano"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+        ]
+      },
+      "seller_address": {
+        "id": 186702578,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQkJFTDcyNTJa",
+          "name": "Belgrano"
+        },
+        "latitude": -34.5568806,
+        "longitude": -58.4477395
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA7454",
+      "official_store_id": null,
+      "catalog_product_id": null,
+      "reviews": {
+      }
+    }
+  ],
+  "secondary_results": [
+  ],
+  "related_results": [
+  ],
+  "sort": {
+    "id": "relevance",
+    "name": "More relevant"
+  },
+  "available_sorts": [
+    {
+      "id": "price_asc",
+      "name": "Lower price"
+    },
+    {
+      "id": "price_desc",
+      "name": "Higher price"
+    }
+  ],
+  "filters": [
+  ],
+  "available_filters": [
+    {
+      "id": "category",
+      "name": "Categories",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA409810",
+          "name": "Audio",
+          "results": 347
+        },
+        {
+          "id": "MLA3502",
+          "name": "Accesorios para Celulares",
+          "results": 225
+        },
+        {
+          "id": "MLA1870",
+          "name": "Apple",
+          "results": 96
+        },
+        {
+          "id": "MLA400950",
+          "name": "Tablets y Accesorios",
+          "results": 36
+        },
+        {
+          "id": "MLA1540",
+          "name": "Servicios",
+          "results": 24
+        },
+        {
+          "id": "MLA1055",
+          "name": "Celulares y Smartphones",
+          "results": 23
+        },
+        {
+          "id": "MLA1182",
+          "name": "Instrumentos Musicales",
+          "results": 13
+        },
+        {
+          "id": "MLA3937",
+          "name": "Joyas y Relojes",
+          "results": 5
+        },
+        {
+          "id": "MLA3813",
+          "name": "Repuestos de Celulares",
+          "results": 5
+        },
+        {
+          "id": "MLA3690",
+          "name": "Accesorios para Audio y Video",
+          "results": 4
+        },
+        {
+          "id": "MLA1798",
+          "name": "Coleccionables y Hobbies",
+          "results": 3
+        },
+        {
+          "id": "MLA4980",
+          "name": "Pen Drives",
+          "results": 3
+        },
+        {
+          "id": "MLA1367",
+          "name": "Antigüedades",
+          "results": 2
+        },
+        {
+          "id": "MLA1276",
+          "name": "Deportes y Fitness",
+          "results": 2
+        },
+        {
+          "id": "MLA5892",
+          "name": "Netbooks y Accesorios",
+          "results": 2
+        },
+        {
+          "id": "MLA4072",
+          "name": "Notebooks y Accesorios",
+          "results": 2
+        },
+        {
+          "id": "MLA5725",
+          "name": "Accesorios para Vehículos",
+          "results": 1
+        },
+        {
+          "id": "MLA1039",
+          "name": "Cámaras y Accesorios",
+          "results": 1
+        },
+        {
+          "id": "MLA1132",
+          "name": "Juegos y Juguetes",
+          "results": 1
+        },
+        {
+          "id": "MLA4641",
+          "name": "Pilas, Cargadores y Baterías",
+          "results": 1
+        },
+        {
+          "id": "MLA1953",
+          "name": "Otras categorías",
+          "results": 3
+        },
+        {
+          "id": "MLA1915",
+          "name": "Otros",
+          "results": 3
+        }
+      ]
+    },
+    {
+      "id": "state",
+      "name": "Location",
+      "type": "text",
+      "values": [
+        {
+          "id": "TUxBUENBUGw3M2E1",
+          "name": "Capital Federal",
+          "results": 560
+        },
+        {
+          "id": "TUxBUEdSQWU4ZDkz",
+          "name": "Bs.As. G.B.A. Norte",
+          "results": 71
+        },
+        {
+          "id": "TUxBUEdSQXJlMDNm",
+          "name": "Bs.As. G.B.A. Sur",
+          "results": 51
+        },
+        {
+          "id": "TUxBUEdSQWVmNTVm",
+          "name": "Bs.As. G.B.A. Oeste",
+          "results": 34
+        },
+        {
+          "id": "TUxBUFNBTmU5Nzk2",
+          "name": "Santa Fe",
+          "results": 17
+        },
+        {
+          "id": "TUxBUENPUmFkZGIw",
+          "name": "Córdoba",
+          "results": 16
+        },
+        {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior",
+          "results": 11
+        },
+        {
+          "id": "TUxBUE1FTmE5OWQ4",
+          "name": "Mendoza",
+          "results": 6
+        },
+        {
+          "id": "TUxBUFRVQ244NmM3",
+          "name": "Tucumán",
+          "results": 3
+        },
+        {
+          "id": "TUxBUE5FVW4xMzMzNQ",
+          "name": "Neuquén",
+          "results": 2
+        },
+        {
+          "id": "TUxBUENPU2ExMmFkMw",
+          "name": "Bs.As. Costa Atlántica",
+          "results": 2
+        },
+        {
+          "id": "TUxBUE1JU3MzNjIx",
+          "name": "Misiones",
+          "results": 1
+        },
+        {
+          "id": "TUxBUENBVGFiY2Fm",
+          "name": "Catamarca",
+          "results": 1
+        },
+        {
+          "id": "TUxBUENIQW8xMTNhOA",
+          "name": "Chaco",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "price",
+      "name": "Precio",
+      "type": "range",
+      "values": [
+        {
+          "id": "*-300.0",
+          "name": "Up to $300",
+          "results": 235
+        },
+        {
+          "id": "300.0-1000.0",
+          "name": "$300 to $1.000",
+          "results": 260
+        },
+        {
+          "id": "1000.0-*",
+          "name": "More than $1.000",
+          "results": 293
+        }
+      ]
+    },
+    {
+      "id": "accepts_mercadopago",
+      "name": "MercadoPago filter",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "With MercadoPago",
+          "results": 764
+        }
+      ]
+    },
+    {
+      "id": "installments",
+      "name": "Pago",
+      "type": "text",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Installments",
+          "results": 761
+        }
+      ]
+    },
+    {
+      "id": "condition",
+      "name": "Condición",
+      "type": "text",
+      "values": [
+        {
+          "id": "new",
+          "name": "New",
+          "results": 494
+        },
+        {
+          "id": "used",
+          "name": "Used",
+          "results": 269
+        }
+      ]
+    },
+    {
+      "id": "shipping",
+      "name": "Shipping",
+      "type": "text",
+      "values": [
+        {
+          "id": "mercadoenvios",
+          "name": "Mercado Envíos",
+          "results": 550
+        },
+        {
+          "id": "free",
+          "name": "Free shipping",
+          "results": 113
+        },
+        {
+          "id": "sameday",
+          "name": "Moto Express",
+          "results": 25
+        }
+      ]
+    },
+    {
+      "id": "power_seller",
+      "name": "Seller quality filter",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Best sellers",
+          "results": 234
+        }
+      ]
+    },
+    {
+      "id": "buying_mode",
+      "name": "Buying mode filter",
+      "type": "text",
+      "values": [
+        {
+          "id": "buy_it_now",
+          "name": "Buy it now",
+          "results": 785
+        },
+        {
+          "id": "auction",
+          "name": "Auction",
+          "results": 3
+        }
+      ]
+    },
+    {
+      "id": "since",
+      "name": "Auction start date filter",
+      "type": "text",
+      "values": [
+        {
+          "id": "today",
+          "name": "Publicados hoy",
+          "results": 3
+        }
+      ]
+    },
+    {
+      "id": "until",
+      "name": "Auction stop filter",
+      "type": "text",
+      "values": [
+        {
+          "id": "today",
+          "name": "Ending today",
+          "results": 2
+        }
+      ]
+    },
+    {
+      "id": "has_video",
+      "name": "Video publications filter",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Publications with video",
+          "results": 33
+        }
+      ]
+    },
+    {
+      "id": "has_pictures",
+      "name": "Items with images filter",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "With pictures",
+          "results": 785
+        }
+      ]
+    }
+  ]
+}

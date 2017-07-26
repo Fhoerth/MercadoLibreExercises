@@ -1,6 +1,9 @@
 import createSagaMiddleware from 'redux-saga'
+import createHistory from 'history/createBrowserHistory'
 import { all, fork } from 'redux-saga/effects'
-import { createStore, applyMiddleware } from 'redux'
+import { routerReducer, routerMiddleware } from 'react-router-redux'
+import { combineReducers, createStore, applyMiddleware } from 'redux'
+
 import rootReducer from './rootReducer'
 import APIClient from '../lib/APIClient'
 
@@ -10,11 +13,11 @@ export const initialState = {
   products: productsResource.defaultState
 }
 
-export default (prelodedState = initialState) => {
-  const apiClient = new APIClient('http://google.com.ar')
+export default (preloadedState = initialState) => {
+  const apiClient = new APIClient('https://api.mercadolibre.com/sites/MLA')
   const sagaMiddleware = createSagaMiddleware()
   const productsSagas = productsResource.createSagas({
-    apiFetchProducts: apiClient.fetchProducts.bind(this)
+    apiFetchProducts: apiClient.fetchProducts.bind(apiClient)
   })
 
   function * rootSagas () {
@@ -23,14 +26,11 @@ export default (prelodedState = initialState) => {
     ])
   }
 
-  if (module.hot) {
-    // Enable Webpack hot module replacement for reducers
-    module.hot.accept('./rootReducer', () => {
-      const nextRootReducer = require('./rootReducer').default
-      store.replaceReducer(nextRootReducer)
-    })
-  }
-  const store = createStore(rootReducer, prelodedState, applyMiddleware(sagaMiddleware))
+  const history = createHistory()
+  const middleware = applyMiddleware(sagaMiddleware, routerMiddleware(history))
+  const store = createStore(combineReducers({ ...rootReducer, router: routerReducer }), preloadedState, middleware)
+  store.history = history
+
   sagaMiddleware.run(rootSagas)
 
   return store

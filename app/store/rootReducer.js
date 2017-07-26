@@ -1,8 +1,7 @@
-import { combineReducers } from 'redux'
 import productsResource from './products'
 
-const rootReducer = combineReducers({
+const rootReducer = {
   products: productsResource.reducer
-})
+}
 
 export default rootReducer

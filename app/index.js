@@ -3,38 +3,60 @@ import './styles/App.scss'
 
 import React from 'react'
 import ReactDOM from 'react-dom'
-import { Provider } from 'react-redux'
 import { AppContainer } from 'react-hot-loader'
 
-import App from './App'
+import createApp from './App'
 import configureStore from './store/configureStore'
 
 const store = configureStore()
+const history = store.history
 const rootEl = document.getElementById('root')
 
-if (process.env.NODE_ENV === 'production') {
-  ReactDOM.render(
-    <Provider store={store}>
-      <App />
-    </Provider>,
-    rootEl
-  )
-} else {
-  const DevApp = AppComponent => (
-    <AppContainer>
-      <Provider store={store}>
-        <AppComponent />
-      </Provider>
-    </AppContainer>
-  )
-  const SuperApp = DevApp(App)
+const App = createApp(store, history)
 
-  const appInstance = ReactDOM.render(SuperApp, rootEl)
+if (process.env.NODE_ENV === 'production') {
+  ReactDOM.render((
+    <App />
+  ), rootEl)
+} else {
+  const renderDevApp = App => ReactDOM.render((
+    <AppContainer>
+      <App />
+    </AppContainer>), rootEl
+  )
+  renderDevApp(App)
 
   if (module.hot) {
-    const reactDeepForceUpdate = require('react-deep-force-update')
+    // const reactDeepForceUpdate = require('react-deep-force-update')
     module.hot.accept('./App', () => {
-      reactDeepForceUpdate(appInstance)
+      const createApp = require('./App').default
+      const NextApp = createApp(store, history)
+      renderDevApp(NextApp)
     })
   }
 }
+
+
+
+// if (process.env.NODE_ENV === 'production') {
+//   ReactDOM.render(
+//     <Provider store={store}>
+//       <App />
+//     </Provider>,
+//     rootEl
+//   )
+// } else {
+//   const DevApp = () => (
+//   )
+//
+//   const SuperApp = DevApp()
+//   ReactDOM.render(SuperApp, rootEl)
+//
+//   if (module.hot) {
+//     // const reactDeepForceUpdate = require('react-deep-force-update')
+//     module.hot.accept('./App', () => {
+//       const nextApp = require('./App').default
+//       // reactDeepForceUpdate(nextApp)
+//     })
+//   }
+// }

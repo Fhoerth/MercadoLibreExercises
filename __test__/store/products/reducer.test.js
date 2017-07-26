@@ -1,4 +1,5 @@
 import { expect } from 'chai'
+import { merge } from 'ramda'
 import productsResource from '../../../app/store/products'
 
 const {
@@ -14,12 +15,29 @@ const mockData = [{
 }]
 
 describe('Products reducer', function () {
-  it('should set state for FETCH_PRODUCTS', function () {
-    const state = defaultState
-    const result = reducer(state, actionCreators.fetchProducts())
+  it('should set state for FETCH_PRODUCTS when action.merge is false', function () {
+    const state = merge(defaultState, {
+      // Force awaitingFetch value to false for assertion
+      awaitingFetch: false
+    })
+
+    const result = reducer(state, actionCreators.fetchProducts({ merge: false }))
 
     expect(result).to.deep.contain({
       awaitingFetch: true
+    })
+  })
+
+  it('should set state for FETCH_PRODUCTS when action.merge is false', function () {
+    const state = merge(defaultState, {
+      // Force awaitingFetchMore value to false for assertion
+      awaitingFetchMore: false
+    })
+
+    const result = reducer(state, actionCreators.fetchProducts({ merge: true }))
+
+    expect(result).to.deep.contain({
+      awaitingFetchMore: true
     })
   })
 
@@ -31,6 +49,7 @@ describe('Products reducer', function () {
     expect(result).to.deep.contain({
       data: mockData,
       awaitingFetch: false,
+      awaitingFetchMore: false,
       fetchSuccess: true,
       fetchFailure: false,
       fetchErrorMessage: null
@@ -39,12 +58,14 @@ describe('Products reducer', function () {
 
   it('should set state for FETCH_PRODUCTS_FAILURE', function () {
     const state = defaultState
+
     const SuccessState = reducer(state, actionCreators.fetchProductsSuccess(mockData))
     const result = reducer(SuccessState, actionCreators.fetchProductsFailure('Error'))
 
     expect(result).to.deep.contain({
       data: mockData,
       awaitingFetch: false,
+      awaitingFetchMore: false,
       fetchSuccess: false,
       fetchFailure: true,
       fetchErrorMessage: 'Error'

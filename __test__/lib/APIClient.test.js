@@ -57,14 +57,13 @@ describe('APIClient instance', function () {
     expect(typeof instance.client).to.equal('function')
   })
 
-  it('property instance should have baseURL defined', function () {
+  it('should have baseURL defined', function () {
     expect(instance.client.defaults.baseURL).to.equal('http://base/url')
   })
 })
 
 describe('fetchProducts', function () {
-  const mockResultsPage1 = require('./mocks/search.page1.mock.json')
-  const mockResultsPage2 = require('./mocks/search.page2.mock.json')
+  const mockResults = require('../mocks/ipod.search.mock.json')
 
   it('should call MercadoLibre API with q=ipod, and default limit/offset parameters', function () {
     const mercadoLibreBaseAPIUrl = 'https://api.mercadolibre.com/sites/MLA'
@@ -81,11 +80,11 @@ describe('fetchProducts', function () {
         return true
       })
       .reply(200, {
-        results: mockResultsPage1
+        results: mockResults
       })
 
     return instance.fetchProducts({ q: 'ipod' }).then(result => {
-      expect(result).to.deep.equal(mockResultsPage1)
+      expect(result).to.deep.equal(mockResults)
     })
   })
 
@@ -104,11 +103,11 @@ describe('fetchProducts', function () {
         return true
       })
       .reply(200, {
-        results: mockResultsPage2
+        results: mockResults
       })
 
     return instance.fetchProducts({ q: 'ipod', page: 2, productsPerPage: 4 }).then(result => {
-      expect(result).to.deep.equal(mockResultsPage2)
+      expect(result).to.deep.equal(mockResults)
     })
   })
 })
