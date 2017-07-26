@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cross-env MODE=test mocha --compilers js:babel-register --require mocha-snapshots --require mocha-babel './__test__/**/*.test.js'",
+    "test": "cross-env MODE=test mocha --compilers js:babel-core/register  --require ./__test__/css-modules-compiler --require mocha-babel './__test__/**/*.test.js'",
     "build": "cross-env NODE_ENV=production webpack -p --config webpack.config.js",
     "start": "node server.js",
     "dev": "gulp dev",
@@ -50,6 +50,7 @@
     "react-redux": "^5.0.5",
     "redux": "^3.7.2",
     "redux-saga": "^0.15.4",
+    "reset-css": "^2.2.0",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.18.2",
     "webpack": "^3.3.0",
@@ -58,10 +59,29 @@
     "webpack-hot-middleware": "^2.18.2"
   },
   "dependencies": {
+    "assert": "^1.4.1",
+    "axios": "^0.16.2",
+    "babel-plugin-module-resolver": "^2.7.1",
+    "chai-enzyme": "^0.8.0",
     "clean-webpack-plugin": "^0.1.16",
     "compression": "^1.7.0",
     "cross-env": "^5.0.1",
+    "css-modules-require-hook": "^4.0.6",
+    "enzyme": "^2.9.1",
+    "expect-enzyme": "^1.1.1",
     "express": "^4.15.3",
-    "file-loader": "^0.11.2"
+    "file-loader": "^0.11.2",
+    "history": "^4.6.3",
+    "history.js": "^1.8.0",
+    "jsdom": "^11.1.0",
+    "jsdom-global": "^3.0.2",
+    "nock": "^9.0.14",
+    "node-sass": "^4.5.3",
+    "query-string": "^5.0.0",
+    "react-router": "^4.1.2",
+    "react-router-redux": "^5.0.0-alpha.6",
+    "react-test-renderer": "^15.6.1",
+    "redux-mock-provider": "^1.0.0",
+    "redux-mock-store": "^1.2.3"
   }
 }

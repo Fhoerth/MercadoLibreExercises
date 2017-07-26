@@ -1,0 +1,98 @@
+@import "./theme";
+
+$logo-width: 53px;
+$input-left-margin: 15px;
+$button-width: 45px;
+
+div.wrapper {
+  margin-right: $col-1;
+  margin-left: $col-1;
+
+  border-radius: 2px;
+  padding-bottom: $separator-size-2
+}
+
+section.mainSection {
+  background: $white;
+}
+
+header.header {
+  padding-top: 10px;
+  padding-right: $col-1;
+  padding-bottom: 10px;
+  padding-left: $col-1;
+
+  background: $yellow;
+}
+
+div.logo {
+  float: left;
+
+  width: 53px;
+
+  a {
+    display: block;
+
+    width: $logo-width;
+    height: 36px;
+
+    color: transparent;
+    background-image: url('../assets/images/Logo_ML.png');
+
+    font-size: 0;
+    line-height: 0;
+  }
+}
+
+div.search {
+  width: calc(#{$col-12} - #{$logo-width} - #{$input-left-margin} - $button-width);
+  margin-right: $button-width;
+  margin-left: $logo-width + $input-left-margin;
+
+  input {
+    box-sizing: border-box;
+    width: calc(#{$col-12});
+    padding-left: 12px;
+
+    border: 0;
+    border-radius: 4px 0 0 4px;
+
+    line-height: 35px;
+  }
+
+}
+
+button {
+  float: right;
+
+  width: $button-width;
+  height: 37px;
+  padding: 5px 0;
+
+  text-align: center;
+
+  border: 0;
+  background-color: $light-gray;
+
+  line-height: 35px;
+
+  i.icon-search {
+    display: block;
+
+    box-sizing: border-box;
+    width: 18px;
+    height: 18px;
+    margin: 0 auto;
+
+    background-image: url('../assets/images/ic_Search.png');
+    background-repeat: no-repeat;
+  }
+}
+
+div.clear {
+  clear: both;
+
+  height: 1px;
+
+  line-height: 1px;
+}

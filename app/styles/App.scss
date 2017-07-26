@@ -1,5 +1,6 @@
-@import "theme/colors";
+@import "reset-css/reset.css";
+@import "theme";
 
 body {
-  background: $dark-gray;
+  background: $light-gray;
 }
