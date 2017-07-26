@@ -26,7 +26,7 @@ class IndexPage extends React.Component {
   render () {
     return (
       <Layout>
-        <CategoryPath />
+        <CategoryPath categoryPath={this.props.categoryPath} />
         <section className={layoutStyles.mainSection}>
           <ProductList />
         </section>
@@ -37,12 +37,17 @@ class IndexPage extends React.Component {
 
 IndexPage.propTypes = {
   router: PropTypes.object,
-  searchProducts: PropTypes.func
+  searchProducts: PropTypes.func,
+  categoryPath: PropTypes.arrayOf(PropTypes.shape({
+    id: PropTypes.string,
+    name: PropTypes.string
+  }))
 }
 
 const IndexPageConnected = connect(
   state => ({
-    router: state.router
+    router: state.router,
+    categoryPath: state.products.categoryPath
   }),
   dispatch => ({
     searchProducts: options => dispatch(actionCreators.fetchProducts(options))

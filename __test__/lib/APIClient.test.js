@@ -79,9 +79,7 @@ describe('fetchProducts', function () {
         })
         return true
       })
-      .reply(200, {
-        results: mockResults
-      })
+      .reply(200, mockResults)
 
     return instance.fetchProducts({ q: 'ipod' }).then(result => {
       expect(result).to.deep.equal(mockResults)
@@ -102,9 +100,7 @@ describe('fetchProducts', function () {
         })
         return true
       })
-      .reply(200, {
-        results: mockResults
-      })
+      .reply(200, mockResults)
 
     return instance.fetchProducts({ q: 'ipod', page: 2, productsPerPage: 4 }).then(result => {
       expect(result).to.deep.equal(mockResults)

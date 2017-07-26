@@ -11,7 +11,7 @@ import celularSearch from '../../mocks/celular.search.mock.json'
 
 chai.use(chaiEnzyme())
 
-describe.only('<CategoryPath />', function () {
+describe('<CategoryPath />', function () {
   before(tearUp)
 
   it('should display navigation path', function () {

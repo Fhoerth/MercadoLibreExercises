@@ -1,5 +1,6 @@
 import { pick, pickBy, compose } from 'ramda'
 import { call, takeEvery, put } from 'redux-saga/effects'
+import { extractCategoryFilter } from '../lib/utils'
 
 const FETCH_PRODUCTS = 'FETCH_PRODUCTS'
 const FETCH_PRODUCTS_SUCCESS = 'FETCH_PRODUCTS_SUCCESS'
@@ -22,7 +23,7 @@ const fetchProducts = ({ q = '', page = 1, productsPerPage = null, merge = false
   page,
   productsPerPage
 })
-const fetchProductsSuccess = products => ({ type: FETCH_PRODUCTS_SUCCESS, products })
+const fetchProductsSuccess = response => ({ type: FETCH_PRODUCTS_SUCCESS, response: response })
 const fetchProductsFailure = errorMessage => ({ type: FETCH_PRODUCTS_FAILURE, errorMessage })
 export const actionCreators = {
   fetchProducts,
@@ -33,7 +34,7 @@ export const actionCreators = {
 export const reducer = (state = defaultState, action) => {
   switch (action.type) {
     case FETCH_PRODUCTS:
-    return { ...state, awaitingFetch: action.merge ? state.awaitingFetch : true,  awaitingFetchMore: action.merge ? true : state.awaitingFetchMore }
+      return { ...state, awaitingFetch: action.merge ? state.awaitingFetch : true, awaitingFetchMore: action.merge ? true : state.awaitingFetchMore }
     case FETCH_PRODUCTS_SUCCESS:
       return {
         ...state,
@@ -42,7 +43,8 @@ export const reducer = (state = defaultState, action) => {
         fetchSuccess: true,
         fetchFailure: false,
         fetchErrorMessage: null,
-        data: action.merge ? action.products : action.products
+        data: action.merge ? [ state.data, ...action.response.results ] : action.response.results,
+        categoryPath: extractCategoryFilter(action.response)
       }
     case FETCH_PRODUCTS_FAILURE:
       return {

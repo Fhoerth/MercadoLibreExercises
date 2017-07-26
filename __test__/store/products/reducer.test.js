@@ -8,11 +8,13 @@ const {
   defaultState
 } = productsResource
 
-const mockData = [{
-  id: 1
-}, {
-  id: 2
-}]
+const mockData = {
+  results: [{
+    id: 1
+  }, {
+    id: 2
+  }]
+}
 
 describe('Products reducer', function () {
   it('should set state for FETCH_PRODUCTS when action.merge is false', function () {
@@ -28,7 +30,7 @@ describe('Products reducer', function () {
     })
   })
 
-  it('should set state for FETCH_PRODUCTS when action.merge is false', function () {
+  it('should set state for FETCH_PRODUCTS when action.merge is true', function () {
     const state = merge(defaultState, {
       // Force awaitingFetchMore value to false for assertion
       awaitingFetchMore: false
@@ -47,12 +49,13 @@ describe('Products reducer', function () {
     const result = reducer(ErrorState, actionCreators.fetchProductsSuccess(mockData))
 
     expect(result).to.deep.contain({
-      data: mockData,
+      data: mockData.results,
       awaitingFetch: false,
       awaitingFetchMore: false,
       fetchSuccess: true,
       fetchFailure: false,
-      fetchErrorMessage: null
+      fetchErrorMessage: null,
+      categoryPath: []
     })
   })
 
@@ -63,7 +66,7 @@ describe('Products reducer', function () {
     const result = reducer(SuccessState, actionCreators.fetchProductsFailure('Error'))
 
     expect(result).to.deep.contain({
-      data: mockData,
+      data: mockData.results,
       awaitingFetch: false,
       awaitingFetchMore: false,
       fetchSuccess: false,

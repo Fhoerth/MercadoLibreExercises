@@ -11,12 +11,12 @@ class List extends React.Component {
   render () {
     if (this.props.awaitingFetch) {
       return (
-        <div className={styles.awaitingFetch}>
+        <div className={styles.notification}>
           <Spinner />
-          <p>Realizando búsqueda de productos</p>
+          <p className={styles.withMargin}>Realizando búsqueda de productos</p>
         </div>
       )
-    } else {
+    } else if (this.props.products.length > 0) {
       return (
         <ol className={styles.list}>
           {this.props.products.map(product => {
@@ -28,12 +28,19 @@ class List extends React.Component {
           })}
         </ol>
       )
+    } else {
+      return (
+        <div className={styles.notification}>
+          <p>No se encontraron resultados para su búsqueda.</p>
+        </div>
+      )
     }
   }
 }
 
 List.propTypes = {
-  products: PropTypes.arrayOf(PropTypes.object)
+  products: PropTypes.arrayOf(PropTypes.object),
+  awaitingFetch: PropTypes.bool
 }
 
 const ListConnected = connect(

@@ -3,11 +3,13 @@ import productsResource from '../../../app/store/products'
 
 const { actionTypes, actionCreators } = productsResource
 
-const mockData = [{
-  id: 1
-}, {
-  id: 2
-}]
+const mockData = {
+  results: [{
+    id: 1
+  }, {
+    id: 2
+  }]
+}
 
 describe('Products actionCreator', function () {
   describe('fetchProduct', function () {
@@ -34,7 +36,7 @@ describe('Products actionCreator', function () {
       const result = actionCreators.fetchProductsSuccess(mockData)
       expect(result).to.deep.equal({
         type: actionTypes.FETCH_PRODUCTS_SUCCESS,
-        products: mockData
+        response: mockData
       })
     })
   })

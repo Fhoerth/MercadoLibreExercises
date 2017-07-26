@@ -77,11 +77,11 @@ section.description {
   }
 }
 
-div.awaiting-fetch {
+div.notification {
   padding: $separator-size-2 0;
   text-align: center;
 
-  p {
+  p.with-margin {
     margin-top: $separator-size-2;
   }
 }

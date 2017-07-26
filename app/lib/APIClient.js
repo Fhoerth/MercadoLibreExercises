@@ -25,7 +25,7 @@ class APIClient {
     return this.client.get(
       `/search?q=${q}&limit=${limit}&offset=${offset}`
     ).then(result => {
-      return result.data.results
+      return result.data
     }).catch(this.handleError.bind(this))
   }
 }
